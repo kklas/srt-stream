@@ -1,0 +1,45 @@
+1
+00:00:05,532 --> 00:00:09,234
+first line
+second line
+
+2d
+00:00:05,532 --> 00:00:09,234
+first line
+second line
+
+
+
+
+3
+00:00:10,232 --> 00:00:11,830
+this is a
+subtitle
+with 3 lines!!
+
+4
+00:00:05,532 --> 00:00:09,234
+first line
+second line
+2
+00:00:10,232 --> 00:00:11,830
+this should still
+be the same sub
+
+5
+00:00:05,532--> 00:00:09,234
+first line
+second line
+
+6
+00:00:5,532 --> 00:00:09,234
+first line
+second line
+
+
+
+
+7
+00:00:05,532 --> 00:00:09,24
+first line
+second line
