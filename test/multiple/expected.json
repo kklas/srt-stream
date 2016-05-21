@@ -1,0 +1,95 @@
+[{
+  "id": 1,
+  "startTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 5,
+    "ms": 532
+  },
+  "endTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 9,
+    "ms": 234
+  },
+  "body": ["first line", "second line"]
+},
+{
+  "id": 0,
+  "startTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 5,
+    "ms": 532
+  },
+  "endTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 9,
+    "ms": 234
+  },
+  "body": ["first line", "second line"]
+},
+{
+  "id": 3,
+  "startTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 10,
+    "ms": 232
+  },
+  "endTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 11,
+    "ms": 830
+  },
+  "body": ["this is a", "subtitle", "with 3 lines!!"]
+},
+{
+  "id": 4,
+  "startTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 5,
+    "ms": 532
+  },
+  "endTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 9,
+    "ms": 234
+  },
+  "body": [
+    "first line", "second line", "2", "00:00:10,232 --> 00:00:11,830",
+    "this should still", "be the same sub"
+  ]
+},
+{
+  "id": 5,
+  "startTime": null,
+  "endTime": null,
+  "body": ["first line", "second line"]
+},
+{
+  "id": 6,
+  "startTime": null,
+  "endTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 9,
+    "ms": 234
+  },
+  "body": ["first line", "second line"]
+},
+{
+  "id": 7,
+  "startTime": {
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 5,
+    "ms": 532
+  },
+  "endTime": null,
+  "body": ["first line", "second line"]
+}]
