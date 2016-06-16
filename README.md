@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/kklas/srt-stream.svg?branch=master)](https://travis-ci.org/kklas/srt-stream)
 [![NPM Version](https://img.shields.io/npm/v/srt-stream.svg)](https://www.npmjs.com/package/srt-stream)
 
+#### Note: This package is written in ES6 and as is, it will only work with nodejs versions 6 and higher.
+
 ## Install
 
 ```
